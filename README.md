@@ -1,4 +1,5 @@
 This homebrew tap automates the installation and updating of the nightly version of Neovim.
+I forked it to prevent a man in the middle attack :)
 
 # Usage
 1. Unlink or uninstall existing neovim `brew unlink neovim`/`brew uninstall neovim`
